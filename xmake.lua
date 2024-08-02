@@ -8,4 +8,4 @@ set_kind("binary")
 add_files("vixen.c")
 
 -- Define as flags de compilação
-add_cflags("-Wall", "-Wextra", "-pedantic", "-std=c99")
+add_cflags("-std=c11", "-Wextra", "-pedantic", "-Wall")
