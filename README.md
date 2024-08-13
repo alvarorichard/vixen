@@ -71,3 +71,6 @@ Contributions to improve or enhance are always welcome. Please adhere to the sta
 3. Commit your Changes
 4. Push to the Branch
 5. Open a Pull Request.
+
+## License
+Vixen Editor is open-source software, released under the MIT License.
