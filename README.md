@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/96b236d8-e267-485d-ae95-13ffd09d3f9b" alt="Imagem logo" style="width: 80%;" />
+    <img src="https://github.com/user-attachments/assets/96b236d8-e267-485d-ae95-13ffd09d3f9b" alt="Imagem logo" style="width: 70%;" />
 </p>
 
 
