@@ -1,3 +1,10 @@
+<h4 align="center">
+    <p>
+        <b>English</b> |
+        <a href="https://github.com/alvarorichard/vixen/blob/main/README_PT_BR.md">Рortuguês</a>
+    </p>
+</h4>
+
 
 
 
